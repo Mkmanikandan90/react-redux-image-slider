@@ -45,7 +45,10 @@ const Counter = () => {
       {imageArr.length === counter.index
         ? console.log("both are equal")
         : console.log("Both are not equal")}
-      <button
+
+      
+
+      <button type="button" class="btn btn-primary"
         onClick={() =>
           imageArr.length - 1 === counter.index
             ? (flag = false)
@@ -53,9 +56,9 @@ const Counter = () => {
         }
       >
         Next
-      </button>{" "}
+      </button> 
       &nbsp; &nbsp;
-      <button
+      <button type="button" class="btn btn-primary"
         onClick={() =>
           counter.index === 0 ? (flag = false) : dispatch(decrement())
         }
@@ -63,7 +66,7 @@ const Counter = () => {
         Prev
       </button>
       &nbsp; &nbsp;
-      <button onClick={() => dispatch(reset())}>Reset</button> <br /> <br />
+      <button type="button" class="btn btn-danger" onClick={() => dispatch(reset())}>Reset</button> <br /> <br />
       <h3>Id : {imageArr[counter.index].id}</h3>
       <div>
         <img src={`${imageArr[counter.index].imgUrl}`} alt="img" />
