@@ -1,13 +1,17 @@
 import "./App.css";
 import Counter from "./components/counter";
+import { Container } from "react-bootstrap";
 
 function App() {
   return (
     <>
-      <div className="ceneter">
-        <h3> Redux with hook </h3>
-        <Counter />
-      </div>
+      <Container>
+        <div className="ceneter">
+          <h3> Redux with hook </h3>
+          <Counter />
+        </div>
+      </Container>
+
     </>
   );
 }
