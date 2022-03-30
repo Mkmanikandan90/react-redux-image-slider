@@ -15,6 +15,8 @@ function App() {
             <li>b. Git fetch</li>
             <li>c. Git merge origin/test-1 branch</li>
           </ul>
+            <h3>This is test 4 merge Conflict purpose</h3>
+            <h3> Follow fetch and merge and checkout file after compare and push</h3>
           <Counter />
         </div>
       </Container>
