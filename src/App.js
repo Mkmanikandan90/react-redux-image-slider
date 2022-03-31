@@ -11,7 +11,8 @@ function App() {
           <h3> Redux with hook </h3>
           <Counter />
         </div>
-        <h1>My local changes</h1>
+      <h1>Admin changes</h1>
+      <h1>My local changes</h1>
       </Container>
 
     </>
