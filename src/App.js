@@ -20,6 +20,7 @@ function App() {
           <Counter />
         </div>
       </Container>
+      <p>Bye world</p>
 
     </>
   );
