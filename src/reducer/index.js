@@ -1,6 +1,8 @@
 // export * from './counterReducer';
 // export * from './authReducer'
 
+// test purpose commit
+
 import { combineReducers } from "redux";
 import counterReducer from "./counterReducer";
 import authReducer from "./authReducer";
