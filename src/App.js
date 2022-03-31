@@ -19,6 +19,7 @@ function App() {
             <h3> Follow fetch and merge and checkout file after compare and push</h3>
           <Counter />
           <h1>Welcome manikandan</h1>
+          <p> Some other changes</p>
         </div>
       </Container>
 
