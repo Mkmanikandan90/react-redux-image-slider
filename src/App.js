@@ -20,6 +20,7 @@ function App() {
           <Counter />
           <h1>Hello Merge conflict</h1>
           <h1>Local changes</h1>
+          <h1>Welcome Aravind</h1>
         </div>
       </Container>
 
