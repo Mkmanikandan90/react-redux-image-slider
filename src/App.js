@@ -23,6 +23,7 @@ function App() {
       </Container>
       <p>Bye world</p>
       <h1>test-v1</h1>
+      <h2>Test-v2</h2>
     </>
   );
 }
