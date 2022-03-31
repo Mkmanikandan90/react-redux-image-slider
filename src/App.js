@@ -19,6 +19,7 @@ function App() {
             <h3> Follow fetch and merge and checkout file after compare and push</h3>
           <Counter />
           <h1>Hello Merge conflict</h1>
+          <h1>Local changes</h1>
         </div>
       </Container>
 
