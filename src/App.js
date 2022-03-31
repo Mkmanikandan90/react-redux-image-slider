@@ -21,12 +21,6 @@ function App() {
           <h1>Hello world</h1>
         </div>
       </Container>
-      <p>Bye world</p>
-      <h1>test-v1</h1>
-      <h2>Test-v2</h2>
-      <h4>test v-3</h4>
-      <h3>test-v4</h3>
-    <h5>test-v5</h5>
     </>
   );
 }
