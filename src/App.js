@@ -12,7 +12,6 @@ function App() {
           <Counter />
         </div>
       <h1>Admin changes</h1>
-      <h1>My local changes</h1>
       </Container>
 
     </>
