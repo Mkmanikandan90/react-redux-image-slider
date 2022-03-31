@@ -18,14 +18,10 @@ function App() {
             <h3>This is test 4 merge Conflict purpose</h3>
             <h3> Follow fetch and merge and checkout file after compare and push</h3>
           <Counter />
-          <h1>Welcome manikandan</h1>
-          <p> Some other changes</p>
-          <p>My changes_v1</p>
-          <h1>Conflict issue using git pull </h1>
-          <h1>Thank you manikandan</h1>
+            <h1>Welcome Manikandan</h1>
+            <h1>Welcome Aravind</h1>
         </div>
       </Container>
-
     </>
   );
 }
