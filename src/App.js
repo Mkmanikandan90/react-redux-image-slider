@@ -21,6 +21,7 @@ function App() {
           <h1>Welcome manikandan</h1>
           <p> Some other changes</p>
           <p>My changes_v1</p>
+          <h1>Conflict issue using git pull </h1>
         </div>
       </Container>
 
